@@ -25,17 +25,17 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Project Leader, CNRS Researcher (CRCN)"
-  company = "Membranes and Cell functions Group led by Dr. P. Bassereau"
-  company_url = "https://science.institut-curie.org/research/multiscale-physics-biology-chemistry/umr168-physical-chemistry/team-bassereau/"
+  company = "Department of Physics of Cells and Cancer"
+  company_url = "https://institut-curie.org/unit/umr168/"
   location = "Institut Curie, Paris"
   date_start = "2019-10-01"
   date_end = ""
-  description = """"""
+  description = "Membranes and Cell functions Group led by Dr. P. Bassereau"
 
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "Membranes and Cell functions Group led by Dr. P. Bassereau"
-  company_url = "https://science.institut-curie.org/research/multiscale-physics-biology-chemistry/umr168-physical-chemistry/team-bassereau/"
+  company_url = "https://curie.fr/equipe/bassereau"
   location = "Institut Curie, Paris"
   date_start = "2014-06-01"
   date_end = "2019-09-30"

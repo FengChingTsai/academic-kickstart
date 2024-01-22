@@ -1,13 +1,13 @@
 ---
 organizations:
   - name: Institut Curie
-    url: https://science.institut-curie.org/research/multiscale-physics-biology-chemistry/umr168-physical-chemistry/team-bassereau/team-members/
+    url: https://institut-curie.org/personne/feng-ching-tsai
 superuser: true
 authors:
   - admin
 title: Feng-Ching Tsai
 role: Project Leader, CNRS Researcher
-bio: Biophysicist fascinated by cellular membranes
+bio: Biophysicist fascinated by the self-organization of cell membranes, the cytoskeleton and molecular motors
 # interests:
 #  - ""
 social:
@@ -47,12 +47,18 @@ social:
 user_groups:
   - ""
 ---
-Welcome to my website. I am Feng. I am a project leader in [Membrane and Cellular Function group](https://science.curie.fr/recherche/physique-chimie-biologie-multi-echelle-et-cancer/physico-chimie/equipe-bassereau/) in [Institut Curie](https://science.institut-curie.org/) in Paris.
+Welcome to my website. I am Feng, an independent project leader in the department of [Physics of Cells and 
+Cancer](https://institut-curie.org/unit/umr168/) at Institut Curie in Paris.
 
-**My research aim** \
-Seek answers to fundamental questions about actin-driven membrane reshaping in membrane trafficking and the formation of cellular protrusions
+**Our research focus - self-assembly of active protein complexes on membranes** \
+Over the last 5 years, we have focused on understanding how the assembly of the actin cytoskeleton and membrane curvature-senesing proteins drive membrane remodeling processes such as filopodia formation, endocytosis and macropinocytosis in cells.
 
-**My research tools** \
-Principles and tools of physics, and bottom-up approaches – *in vitro* reconstitution systems composed of model membranes and purified proteins
+**Our research tools** \
+We have developed a multidisciplinary approach combining synthetic systems and quantitative physical measurements, including the use of optical tweezers. 
+
+**Our research team** \
+Since 2019, the members of my team are Cecile Maguin (Master student, background in physics, 2020), [Gwendal Guerin](https://curie.fr/personne/gwendal-guerin) (PhD student, background in biochemistry, November 2021-present) and [Simli Dey](https://scholar.google.co.in/citations?hl=en&user=-wFQ7RsAAAAJ&view_op=list_works&sortby=pubdate) (postdoc with expertise in optics and biophysics, September 2021-present).
+
+{{< figure src="team.jpg" title="Our team" alt="Our team" >}}
 
 > If you are interested in joining my research team as a postdoc, undergraduate or graduate student, please feel free to [contact](#contact) me!

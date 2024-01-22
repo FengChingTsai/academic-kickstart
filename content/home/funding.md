@@ -25,11 +25,41 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "Interdisciplinary Project Grant, Q-Life Institute Convergences "
+  url = ""
+  certificate_url = ""
+  date_start = "2022-01-01"
+  date_end = "2025-12-31"
+  description = ""
+  
+[[item]]
+  organization = "ANR (French National Agency for Research), JCJC (Jeunes Chercheuses et Jeunes Chercheurs)"
+  organization_url = ""
+  title = "Independent Young Researcher Grant "
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2024-10-31"
+  description = ""
+
+[[item]]
+  organization = "Curie Institute"
+  organization_url = ""
+  title = "Emergent Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-01"
+  date_end = "2021-11-30"
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "Labex CelTisPhyBio, Independent Program Grant"
   url = ""
   certificate_url = ""
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2021-01-01"
   description = ""
   
 [[item]]
